@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to My Profile
 
-<!--
-**Prasad-rangapu/Prasad-rangapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Prasad Rangapu, a passionate software developer dedicated to creating innovative and efficient solutions. With a strong background in various programming languages and frameworks, I enjoy tackling complex challenges and continuously improving my skills.  
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** JavaScript, Python, Java, C++  
+- **Web Development:** React, Angular, Node.js  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Technologies:** Git, Docker, Jenkins  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Project Name:** Description of the project and what technologies were used.  
+- **Another Project:** Description of the project and what technologies were used.  
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prasad-rangapu) or follow my work here!  
+
+Thank you for visiting my profile!
